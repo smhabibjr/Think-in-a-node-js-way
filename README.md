@@ -1,23 +1,36 @@
-## Table of Contents
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## Node Js
+- The Basics
+    - Literals
+    - Strings
+    - Symbols
+    - Numbers
+    - nil
 
-- [Project Description](#project-description)
-- [Technologies and Programing Languages](#technologies-and-programming-languages)
-- Frontend Design
-  - [Frontend Design HTML](#frontend-design-html)
-  - [Frontend Design CSS](#frontend-design-css)
-  - [Frontend Design JavaScript](#frontend-design-javascript)
-- Backend
-  - [Backend Handling with PHP](#backend-handling-with-php)
-- [Contact](#contact)
+- Flow Control
+    - Conditionals
+    - Comparisons
+    - Combining Expressions
+    - True and False
+    - Summary
+    - Exercises
+- Loops & Iterators
+    - A Simple Loop
+    - Controlling Loop Execution
 
-<!-- HOW TO RUN -->
-## Project Description
-
-## Technologies and Programming Languages
-
-
-
-## Frontend Design HTML
+    - Conditionals Within Loops
+    - Iterators
+    - Recursion
+    - Summary
+    - Exercises
+- Arrays
+    - What is an Array?
+    - Modifying Arrays
+    - Iterating Over an Array
+    - Exercises
+- Hashes
 
 ```html
 <div id="overDiv">
@@ -53,8 +66,4 @@
 <sup align="right"><a href="#table-of-contents">Go to top</a></sup>
 
 ## Frontend Design CSS
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 

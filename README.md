@@ -101,7 +101,7 @@ Go to your Visual Stuido Code `settings.json` file and add the below settings th
 
 Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF (Carriage return and line feed). To do that, just click LF/CRLF in bottom right corner of editor, click it and change it to "LF". If you dont do that, you will get errors in my setup.
 
-<img src="images/line-feed.jpg" alt="Line Feed" width="700">
+![image](https://user-images.githubusercontent.com/77357735/204080659-3aaddc90-4da2-4c94-8e75-96a6c49ad2a8.png)
 
 <!-- LINTING SETUP -->
 

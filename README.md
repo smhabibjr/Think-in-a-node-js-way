@@ -8,6 +8,15 @@
 - [Update Node](#update-node)
 - [VS Code Editor Setup](#vs-code-editor-setup)
 - [Linting Setup](#linting-setup)
+
+- [window vs global Object](#linting-setup)
+- [__dirname & __filename](#linting-setup)
+- [Module System](#linting-setup)
+- [Module Wrapper Function](#linting-setup)
+- [Outro](#linting-setup)
+- [window vs global Object](#linting-setup)
+- [window vs global Object](#linting-setup)
+- [window vs global Object](#linting-setup)
 - [Contact](#contact)
 
 <!-- UPDATE NODE -->

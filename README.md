@@ -13,7 +13,6 @@
 - [__dirname & __filename](#linting-setup)
 - [Module System](#linting-setup)
 - [Module Wrapper Function](#linting-setup)
-- [Outro](#linting-setup)
 - [window vs global Object](#linting-setup)
 - [window vs global Object](#linting-setup)
 - [window vs global Object](#linting-setup)

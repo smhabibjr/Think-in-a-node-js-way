@@ -158,7 +158,7 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
 }
 ```
 
-### Global Object & Module System
+### Global Object and Module System
 
 As we know that in vanilla javascript we can find window objects in the browser. Inside the window object, we can find lots of built-in functions such as SetTimeout, SetInterval, alert, onClick, and so on. But in node.js we don't have a window object. But still, SetTimeout or SetInterval function works on node.js then questions rising how it works actually.
 

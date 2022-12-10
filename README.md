@@ -9,7 +9,7 @@
 - [VS Code Editor Setup](#vs-code-editor-setup)
 - [Linting Setup](#linting-setup)
 
-- [window vs global Object](#linting-setup)
+- [Global Object & Module System](#global-object-and-module-system)
 - [__dirname & __filename](#linting-setup)
 - [Module System](#linting-setup)
 - [Module Wrapper Function](#linting-setup)
@@ -157,6 +157,12 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
   "plugins": ["prettier"]
 }
 ```
+
+### Global Object & Module System
+
+As we know that in vanilla javascript we can find window objects in the browser. Inside the window object, we can find lots of built-in functions such as SetTimeout, SetInterval, alert, onClick, and so on. But in node.js we don't have a window object. But still, SetTimeout or SetInterval function works on node.js then questions rising how it works actually.
+
+Well, in node.js we don't have any windows object instead we have a Global object. To see it write console.log(global) we will find some built-in functions inside the global object.
 
 ## Contact
 
